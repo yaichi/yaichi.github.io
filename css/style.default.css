@@ -396,8 +396,6 @@ SIDEBAR + RIGHT COLUMN
   overflow-y: hidden;
 }
 .content-column-content {
-  padding-left: 20px;
-  padding-right: 20px;
   padding-bottom: 20px;
 }
 @media (min-width: 1200px) {
@@ -844,7 +842,6 @@ a:active {
 .box-masonry h4 {
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
@@ -1947,7 +1944,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.2;
   color: #000000;
 }
@@ -1962,22 +1959,18 @@ h2,
 h3,
 .h3 {
   font-size: 32px;
-  font-weight: 700;
 }
 h4,
 .h4 {
   font-size: 24px;
-  font-weight: 700;
 }
 h5,
 .h5 {
   font-size: 16px;
-  font-weight: 700;
 }
 h6,
 .h6 {
   font-size: 14px;
-  font-weight: 700;
 }
 h1,
 .h1,
