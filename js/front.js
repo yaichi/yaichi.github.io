@@ -150,10 +150,10 @@ $.fn.alignElementsSameHeight = function () {
         children.innerHeight(maxHeight);
     });
 }
-$(window).load(function () {
+$(window).on("load", function () {
     windowWidth = $(window).width();
     $(this).alignElementsSameHeight();
-});
+})
 $(window).resize(function () {
     newWindowWidth = $(window).width();
     if (windowWidth !== newWindowWidth) {

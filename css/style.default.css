@@ -12,7 +12,7 @@ GENERAL
 */
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular.ttf");
+  src: url("fonts/Roboto-Regular.ttf");
 }
 html,
 body {
@@ -363,7 +363,7 @@ SIDEBAR + RIGHT COLUMN
   margin-bottom: 40px;
 }
 .sidebar-menu li {
-  margin-bottom: 12px;
+  margin-bottom: 5px;
 }
 .sidebar-menu li a {
   color: #555555;
@@ -414,7 +414,6 @@ SIDEBAR + RIGHT COLUMN
 .content-column-content p,
 .content-column-content li {
   color: #999999;
-  line-height: 2;
 }
 .content-column-content ul li {
   list-style-type: none;
@@ -844,7 +843,6 @@ a:active {
   text-overflow: ellipsis;
 }
 .box-masonry h4 {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   text-transform: uppercase;
@@ -1949,6 +1947,7 @@ h6,
 .h4,
 .h5,
 .h6 {
+  font-family: Roboto;
   font-weight: 400;
   line-height: 1.2;
   color: #000000;
