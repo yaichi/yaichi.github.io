@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on 王丹</title>
-    <link>http://yaichi.github.io/video/</link>
+    <link>http://yaichi.me/video/</link>
     <description>Recent content in Videos on 王丹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="http://yaichi.github.io/video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yaichi.me/video/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>字雨</title>
-      <link>http://yaichi.github.io/video/words/</link>
+      <link>http://yaichi.me/video/words/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/video/words/</guid>
+      <guid>http://yaichi.me/video/words/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>创造101</title>
-      <link>http://yaichi.github.io/video/101/</link>
+      <link>http://yaichi.me/video/101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/video/101/</guid>
+      <guid>http://yaichi.me/video/101/</guid>
       <description>  </description>
     </item>
     

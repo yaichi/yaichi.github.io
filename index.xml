@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>王丹</title>
-    <link>http://yaichi.github.io/</link>
+    <link>http://yaichi.me/</link>
     <description>Recent content on 王丹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="http://yaichi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yaichi.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>字雨</title>
-      <link>http://yaichi.github.io/video/words/</link>
+      <link>http://yaichi.me/video/words/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/video/words/</guid>
+      <guid>http://yaichi.me/video/words/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>宇宙杯</title>
-      <link>http://yaichi.github.io/painting/1-universe-cup/</link>
+      <link>http://yaichi.me/painting/1-universe-cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/1-universe-cup/</guid>
+      <guid>http://yaichi.me/painting/1-universe-cup/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Man</title>
-      <link>http://yaichi.github.io/painting/2-man/</link>
+      <link>http://yaichi.me/painting/2-man/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/2-man/</guid>
+      <guid>http://yaichi.me/painting/2-man/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Woman</title>
-      <link>http://yaichi.github.io/painting/2-women/</link>
+      <link>http://yaichi.me/painting/2-women/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/2-women/</guid>
+      <guid>http://yaichi.me/painting/2-women/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>创造101</title>
-      <link>http://yaichi.github.io/video/101/</link>
+      <link>http://yaichi.me/video/101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/video/101/</guid>
+      <guid>http://yaichi.me/video/101/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>风景</title>
-      <link>http://yaichi.github.io/painting/3-scene/</link>
+      <link>http://yaichi.me/painting/3-scene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/3-scene/</guid>
+      <guid>http://yaichi.me/painting/3-scene/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>日落</title>
-      <link>http://yaichi.github.io/painting/4-sunset/</link>
+      <link>http://yaichi.me/painting/4-sunset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/4-sunset/</guid>
+      <guid>http://yaichi.me/painting/4-sunset/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Portrait</title>
-      <link>http://yaichi.github.io/painting/5-portrait/</link>
+      <link>http://yaichi.me/painting/5-portrait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/5-portrait/</guid>
+      <guid>http://yaichi.me/painting/5-portrait/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Girl</title>
-      <link>http://yaichi.github.io/painting/6-girl/</link>
+      <link>http://yaichi.me/painting/6-girl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/6-girl/</guid>
+      <guid>http://yaichi.me/painting/6-girl/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Little Girl</title>
-      <link>http://yaichi.github.io/painting/7-little-girl/</link>
+      <link>http://yaichi.me/painting/7-little-girl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/7-little-girl/</guid>
+      <guid>http://yaichi.me/painting/7-little-girl/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Girls</title>
-      <link>http://yaichi.github.io/painting/8-girls/</link>
+      <link>http://yaichi.me/painting/8-girls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/8-girls/</guid>
+      <guid>http://yaichi.me/painting/8-girls/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Snow</title>
-      <link>http://yaichi.github.io/painting/9-snow/</link>
+      <link>http://yaichi.me/painting/9-snow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/painting/9-snow/</guid>
+      <guid>http://yaichi.me/painting/9-snow/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>http://yaichi.github.io/about/</link>
+      <link>http://yaichi.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yaichi.github.io/about/</guid>
+      <guid>http://yaichi.me/about/</guid>
       <description> 简介  现居上海 爱好阅读、音乐、绘画 五年互联网产品设计经验 擅长 B 端产品设计、项目管理  工作经历  联璧信息科技 &amp;hellip;  联系方式  antsicy@126.com 微信公众号：点灯序（underthelamp）  </description>
     </item>
     
