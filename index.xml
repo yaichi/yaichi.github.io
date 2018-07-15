@@ -124,7 +124,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yaichi.me/about/</guid>
-      <description> 简介  现居上海 爱好阅读、音乐、绘画 五年互联网产品设计经验 擅长 B 端产品设计、项目管理  工作经历  联璧信息科技 &amp;hellip;  联系方式  antsicy@126.com 微信公众号：点灯序（underthelamp）  </description>
+      <description> 简介  现居上海 爱好阅读、音乐、绘画 五年互联网产品设计经验  联系方式  antsicy@126.com 微信公众号：点灯序（underthelamp）  </description>
+    </item>
+    
+    <item>
+      <title>官方首页</title>
+      <link>http://yaichi.me/projects/lianbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yaichi.me/projects/lianbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>订单管理</title>
+      <link>http://yaichi.me/projects/order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yaichi.me/projects/order/</guid>
+      <description></description>
     </item>
     
   </channel>

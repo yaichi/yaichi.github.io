@@ -61,6 +61,11 @@
   </url>
   
   <url>
+    <loc>http://yaichi.me/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://yaichi.me/tags/</loc>
     <priority>0</priority>
   </url>
@@ -75,8 +80,16 @@
   </url>
   
   <url>
+    <loc>http://yaichi.me/projects/lianbi/</loc>
+  </url>
+  
+  <url>
     <loc>http://yaichi.me/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yaichi.me/projects/order/</loc>
   </url>
   
 </urlset>
