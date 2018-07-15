@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on 王丹</title>
+    <link>http://yaichi.github.io/video/</link>
+    <description>Recent content in Videos on 王丹</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="http://yaichi.github.io/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>字雨</title>
+      <link>http://yaichi.github.io/video/words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yaichi.github.io/video/words/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

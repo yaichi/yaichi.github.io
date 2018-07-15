@@ -10,6 +10,10 @@ Startup Template By Bootstrapious.com
 GENERAL
 =====================
 */
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Regular.ttf");
+}
 html,
 body {
   overflow-x: hidden;
@@ -840,6 +844,7 @@ a:active {
   text-overflow: ellipsis;
 }
 .box-masonry h4 {
+  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   text-transform: uppercase;
