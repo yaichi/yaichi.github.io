@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yaichi.github.io/video/words/</loc>
+  </url>
+  
+  <url>
     <loc>http://yaichi.github.io/painting/1-universe-cup/</loc>
   </url>
   
@@ -12,6 +16,10 @@
   
   <url>
     <loc>http://yaichi.github.io/painting/2-women/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yaichi.github.io/video/101/</loc>
   </url>
   
   <url>
@@ -64,10 +72,6 @@
   
   <url>
     <loc>http://yaichi.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://yaichi.github.io/video/words/</loc>
   </url>
   
   <url>
