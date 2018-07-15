@@ -76,20 +76,16 @@
   </url>
   
   <url>
-    <loc>http://yaichi.me/about/</loc>
+    <loc>http://yaichi.me/projects/lianbi/</loc>
   </url>
   
   <url>
-    <loc>http://yaichi.me/projects/lianbi/</loc>
+    <loc>http://yaichi.me/about/</loc>
   </url>
   
   <url>
     <loc>http://yaichi.me/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://yaichi.me/projects/order/</loc>
   </url>
   
 </urlset>
