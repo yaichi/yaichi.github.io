@@ -84,6 +84,10 @@
   </url>
   
   <url>
+    <loc>http://yaichi.me/projects/hyz/</loc>
+  </url>
+  
+  <url>
     <loc>http://yaichi.me/</loc>
     <priority>0</priority>
   </url>
