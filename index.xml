@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>王丹</title>
@@ -142,9 +142,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yaichi.me/projects/lianbi/</guid>
-      <description>官方首页
- 供应商管理
-   </description>
+      <description></description>
     </item>
     
     <item>
@@ -153,7 +151,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yaichi.me/about/</guid>
-      <description> 简介  现居上海 爱好阅读、音乐、绘画 五年互联网产品设计经验  联系方式  antsicy@126.com 微信公众号：点灯序（underthelamp）  </description>
+      <description>简介  现居上海 爱好阅读、音乐、绘画 五年互联网产品设计经验  联系方式  antsicy@126.com 微信公众号：点灯序（underthelamp）  </description>
     </item>
     
     <item>
@@ -162,8 +160,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yaichi.me/projects/hyz/</guid>
-      <description>交互稿
-   </description>
+      <description></description>
     </item>
     
   </channel>
